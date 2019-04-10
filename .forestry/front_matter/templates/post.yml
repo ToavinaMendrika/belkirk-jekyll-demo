@@ -15,7 +15,7 @@ fields:
   label: Sub Heading
   name: sub_heading
   default: ''
-- name: publishdate
+- name: date
   label: Publish Date
   type: datetime
   hidden: false
