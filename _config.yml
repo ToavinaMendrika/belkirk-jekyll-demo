@@ -17,9 +17,6 @@ collections:
   people:
     output: true
     permalink: "/about/:path/"
-  posts:
-    output: true
-    permalink: "/:year/:month/:day/:title:output_ext"
   projects:
     output: true
     permalink: "/projects/:path/"
