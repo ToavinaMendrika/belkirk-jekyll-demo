@@ -7,6 +7,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: textarea
+  name: post-excerpt
+  label: Excerpt
+  description: exerpt of post
 - type: text
   label: Sub Heading
   name: sub_heading
