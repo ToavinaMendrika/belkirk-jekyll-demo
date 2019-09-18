@@ -26,3 +26,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: menu_project
+  type: blocks
+  label: menu_project
+  template_types: []
+  config:
+    min: 
+    max: 
