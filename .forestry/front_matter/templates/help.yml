@@ -1,6 +1,7 @@
 ---
 label: help
 hide_body: false
+display_field: layout
 fields:
 - name: menu_help
   type: blocks
