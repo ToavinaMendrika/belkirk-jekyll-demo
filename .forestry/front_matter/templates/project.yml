@@ -29,7 +29,10 @@ fields:
 - name: menu_project
   type: blocks
   label: menu_project
-  template_types: []
+  template_types:
+  - posts
+  - person
+  - project
   config:
     min: 
     max: 
