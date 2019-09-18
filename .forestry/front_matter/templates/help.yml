@@ -1,4 +1,23 @@
 ---
 label: help
 hide_body: false
-fields: []
+fields:
+- name: menu_help
+  type: blocks
+  label: menu help
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: layout
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: layout
